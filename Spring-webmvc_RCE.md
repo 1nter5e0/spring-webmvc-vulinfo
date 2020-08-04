@@ -1,7 +1,7 @@
 # Spring-webmvc remote code execution vulnerability #
 
 **project name**： Spring-webmvc <br>
-**Versions Affected**: 5.2.x, 5.1.x, <br>
+**Versions Affected**: 5.2.x, 5.1.x,4.2.x,4.1.x,4.0.x,3.2.x,3.1.x,3.0.x <br>
 **Exploit Author**: Lynx@vfsec.com <br>
 **Homepage**: https://spring.io/projects/spring-framework , https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html <br>
 
